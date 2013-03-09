@@ -1,0 +1,17 @@
+Sistema Operacional Bin S.O
+---*---*---*---*---*---*---
+
+Repositório dos arquivos de instalação do Bin S.O.
+
+O Bin S.O é um sistema operacional 16-Bits desenvolvido para processadores 8086 ou superiores. O Bin S.O opera em modo real e aceita o desenvolvimento de aplicativos em linguagem assembly utilizando a IDE do Bin S.O.
+
+Requisítos mínimos:
+
+> Processador Intel 8086 ou superiores ( ou AMD x86 ).
+> 1 MB de memória RAM.
+> Teclado padrão.
+> Monitor.
+> Disco Rígido ou Pen Drive de 1 MB.
+
+Copyright (C) 2013 Felipe Miguel Nery Lunkes
+Todos os direitos reservados.
