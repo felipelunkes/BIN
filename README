@@ -13,5 +13,13 @@ Requisítos mínimos:
 > Monitor.
 > Disco Rígido ou Pen Drive de 1 MB.
 
+
+Utilize para instalar o Bin S.O em um computador ou mídia de armazenamento externa como root:
+
+
+./instalar dispositivo binloader binkernel ajuda sobre ver mem processador clear video echo reg desligar reiniciar som binmouse
+
+
 Copyright (C) 2013 Felipe Miguel Nery Lunkes
 Todos os direitos reservados.
+ 
