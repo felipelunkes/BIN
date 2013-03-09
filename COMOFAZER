@@ -1,0 +1,18 @@
+Instalando o Bin S.O em uma mídia de armazenamento
+---*---*---*---*---*---*---*---*---*---*---*---*---
+
+
+Para instalar o Bin S.O, utilize o aplicativo/executável instalar, presente neste pacote.
+
+Execute-o como super-usuário apenas e certifique-se de indicar o dispositivo correto para a instalação.
+
+AVISO! Caso o dispositivo foi passado incorrretamente e exista, o dispositivo em questão será formatado com Bin S.O e todos os dados nele contidos serão excluídos e não poderão ser recuperados.
+
+Utilize, sendo que os dois primeiros arquivos devem ser declarados nesta ordem de forma obrigatória:
+
+./instalar binloader binkernel ajuda sobre ver mem processador clear som binmouse desligar reiniciar reg echo video
+
+
+Sistema Operacional Bin S.O
+
+Copyright (C) 2013 Felipe Miguel Nery Lunkes
