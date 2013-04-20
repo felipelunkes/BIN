@@ -14,12 +14,26 @@ Requisítos mínimos:
 > Disco Rígido ou Pen Drive de 1 MB.
 
 
-Utilize para instalar o Bin S.O em um computador ou mídia de armazenamento externa como root:
+Utilize para instalar o Bin S.O em um computador ou mídia de armazenamento externa:
 
 
-./instalar dispositivo binloader binkernel ajuda sobre ver mem processador clear video echo reg desligar reiniciar som binmouse
+-> Utilizando o Linux como sistema operacional em seu computador:
+
+    
+	Como root:
+	
 
 
+    ./instalar dispositivo binloader binkernel ajuda sobre ver mem processador clear video echo reg desligar reiniciar som binmouse
+
+
+-> Utilizando o Windows ou algum outro sistema operacional:
+
+  
+    Realize o download da Imagem de instalação do Bin S.O e siga as instruções apresentadas na tela inicial.
+
+
+	
 Copyright (C) 2013 Felipe Miguel Nery Lunkes
 Todos os direitos reservados.
  
